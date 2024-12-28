@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Scientist & Politicol</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <h1 class="brand-title">Utkarsh Tiwari</h1>
+            <p class="tagline">Data Scientist | Political Enthusiast | Entrepreneur</p>
+        </div>
+        <div class="header-decor">
+            <div class="circle">
+                <img src="my profile.jpg" alt="Profile" width="120" height="120">
+            </div>
+        </div>
+    </header>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#about"><b>About Me</b></a></li>
+            <li><a href="#projects"><b>Projects</b></a></li>
+            <li><a href="#achievements"><b>Achievements</b></a></li>
+            <li><a href="#contact"><b>Contact</b></a></li>
+        </ul>
+    </nav>
+    <section id="about" class="section about-section">
+        <div class="container about-container">
+            <h2 class="section-title"><b><u>ABOUT ME</u></b></h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>
+                        <b>Welcome to my world of innovation and creativity!<br><br>
+                        I'm a passionate data science student, an aspiring entrepreneur, and a visionary leader dedicated to shaping the future.<br>
+                        With a deep interest in technology and sustainable solutions, I’m actively working on groundbreaking projects like CHARGING KICKS, an energy-conserving smart shoe.<br>
+                        As the Co-Chairman of IEEE PES and Vice President of my college's Electoral Literacy Club, I thrive on empowering communities and driving impactful initiatives. Join me on this journey as we explore the intersection of technology, leadership, and sustainability.</b>
+                    </p>
+                </div>
+                <div class="about-image">
+                    <img src="my profile.jpg" alt="Profile Image" width="300" height="200">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="projects" class="section projects-section">
+        <div class="container">
+            <h2 class="section-title"><u>Highlighted Projects</u></h2>
+            <div class="projects-grid">
+                <div class="project-box">
+                    <img src="image 1.jpeg" width="250" height="300">
+                    <h3>Art Voyage</h3>
+                    <p>Immerse yourself in a VR-powered platform that brings global art to life, offering a 360-degree exploration of diverse cultures and artistic expressions. Discover, connect, and experience the world’s rich heritage from the comfort of your space.</p>
+                </div>
+                <div class="project-box">
+                    <img src="image 2.jpg" width="250" height="100">
+                    <h3>Carbon Credits</h3>
+                    <p>Empowering sustainable practices through <b>Carbon Credits</b>, our project focuses on incentivizing eco-friendly actions by offsetting emissions and promoting a greener future.</p>
+                </div>
+                <div class="project-box">
+                    <img src="image 3.jpg" width="250" height="100">
+                    <h3>Charging Kicks</h3>
+                    <p>Revolutionizing footwear with smart shoes that generate electricity, track fitness, and offer GPS navigation for a sustainable and connected lifestyle.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="achievements" class="section achievements-section">
+        <div class="container">
+            <h2 class="section-title"><u>Achievements</u></h2>
+            <div class="achievements-content">
+                <ul>
+                    <li><i class="fas fa-medal"></i>   Co-Chairman of IEEE PES Society, PSIT Kanpur</li>
+                    <li><i class="fas fa-crown"></i>   Vice President of Electoral Literacy Club</li>
+                    <li><i class="fas fa-users"></i>   Organized a Mock Parliament Event</li>
+                    <li><i class="fas fa-certificate"></i>   HTML Certification from Infosys</li>
+                </ul>
+                <img src="images 4.jpg" width="300" height="300">
+            </div>
+        </div>
+    </section>
+    <section id="contact" class="section contact-section">
+        <div class="container">
+            <h2 class="section-title"><u>Contact Me</u></h2>
+            <p>Let’s collaborate on impactful projects or discuss innovative ideas!</p>
+            <div class="contact-icons">
+                <a href="https://www.linkedin.com/in/utkarsh-tiwari-4b0b1632a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzrK%2BmyCZQ2CO0jADyz7jWA%3D%3D"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/Utkarsh397"><i class="fab fa-github"></i></a>
+                <a href="2k23.cs2311054@gmail.com"><i class="fas fa-envelope"></i></a>
+            </div>
+        </div>
+    </section>
+    <footer class="main-footer">
+        <div class="container">
+            <p>© 2024 Utkarsh Tiwari | Designed with <i class="fas fa-heart"></i> and Innovation</p>
+        </div>
+    </footer>
+</body>
+</html>
